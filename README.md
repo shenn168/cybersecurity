@@ -2,7 +2,8 @@
 A collection of useful tools for Cybersecurity professionals.
 
 Shodan
-*** Features Included
+*** 
+Features Included
 Secure API Key Input: Uses getpass to hide API key during input
 
 Authentication Validation: Verifies API key and displays account info
