@@ -1,7 +1,7 @@
 # cybersecurity
 A collection of useful tools for Cybersecurity professionals.
 
-* Shodan *
+Shodan
 *** Features Included
 Secure API Key Input: Uses getpass to hide API key during input
 
